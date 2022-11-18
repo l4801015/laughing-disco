@@ -105,7 +105,21 @@
 
 ### Навыки
 
-JavaScript; CSS; Git; Sass; React; БЭМ; Webpack; Jest; TypeScript; Разработка ПО; Кроссбраузерная верстка; Английский язык; Веб-разработка; HTML; Ajax; Linux
+JavaScript
+CSS
+Git
+Sass
+React
+Webpack
+Jest
+TypeScript
+HTML
+Ajax
+Linux
+SQL
+PHP
+Java
+C#
 
 ## Дополнительная информация
 
